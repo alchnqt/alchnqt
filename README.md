@@ -1,2 +1,2 @@
-# 👋 Hi, I’m @alcohon
+# 👋 Hi, I’m Alcohon
 
