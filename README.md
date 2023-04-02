@@ -1,2 +1,2 @@
-# 👋 Hi, I’m Alcohon
+# 👋 Hi, I’m Alex
 
