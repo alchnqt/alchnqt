@@ -15,10 +15,10 @@
 <hr />
 
 <h3>Traveling Order App</h3>
-<p>is .NET Core application that assist in booking traveling tickets.
+<p>is .NET application that assist in booking traveling tickets.
 <p>Tech Stack: 
 <ul>
-    <li>.NET Core</li>
+    <li>.NET5</li>
     <li>WPF + MVVM</li>
 </ul>
 <hr />
