@@ -15,7 +15,7 @@
 <hr />
 
 <h3>Traveling Order App</h3>
-<p>is .NET Core application that assis in booking traveling tickets.
+<p>is .NET Core application that assist in booking traveling tickets.
 <p>Tech Stack: 
 <ul>
     <li>.NET Core</li>
