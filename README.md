@@ -20,8 +20,8 @@
 </ul>
 <hr />
 
-<h3>MAV_2020</h3>
-<p>is my own programming language. Project represents itself as a compiler/translator to Assembly language</p>
+<h3>My own programming language</h3>
+<p>Project represents itself as a compiler/translator to Assembly language</p>
 <p>Tech Stack: 
 <ul>
     <li>C++</li>
